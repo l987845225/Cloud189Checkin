@@ -1,5 +1,5 @@
 # Cloud189Checkin
-
+pot-app-recognize-plugin
 > 天翼网盘自动签到（随机容量) 和抽奖（三次，每次50M，共150M）获取空间  
 
 ## **目录**
